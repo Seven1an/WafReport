@@ -43,7 +43,7 @@ WafReport.exe -u 设备地址 -c "cookie" -t 多少分钟获取一次
 
 模版根据`/log/websec/viewDetail?id=`的响应结果按需更改
 
-![image-20250713222848753](./img/image-20250713222848753.png)
+![image-20250713222848753](./img/image-20250713222848766.png)
 
 
 
